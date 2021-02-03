@@ -1,7 +1,7 @@
 /*!
  * Ajax Crud 
  * =================================
- * Use for johnitvn/yii2-ajaxcrud extension
+ * Use for wsidebottom/yii2-ajaxcrud extension
  * @author John Martin john.itvn@gmail.com
  */
 $(document).ready(function () {

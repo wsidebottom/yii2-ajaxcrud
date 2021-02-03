@@ -1,9 +1,9 @@
 yii2-ajaxcrud 
 =============
 
-[![Latest Stable Version](https://poser.pugx.org/johnitvn/yii2-ajaxcrud/v/stable)](https://packagist.org/packages/johnitvn/yii2-ajaxcrud)
-[![License](https://poser.pugx.org/johnitvn/yii2-ajaxcrud/license)](https://packagist.org/packages/johnitvn/yii2-ajaxcrud)
-[![Total Downloads](https://poser.pugx.org/johnitvn/yii2-ajaxcrud/downloads)](https://packagist.org/packages/johnitvn/yii2-ajaxcrud)
+[![Latest Stable Version](https://poser.pugx.org/wsidebottom/yii2-ajaxcrud/v/stable)](https://packagist.org/packages/wsidebottom/yii2-ajaxcrud)
+[![License](https://poser.pugx.org/wsidebottom/yii2-ajaxcrud/license)](https://packagist.org/packages/wsidebottom/yii2-ajaxcrud)
+[![Total Downloads](https://poser.pugx.org/wsidebottom/yii2-ajaxcrud/downloads)](https://packagist.org/packages/wsidebottom/yii2-ajaxcrud)
 
 Gii CRUD template for Single Page Ajax Administration for yii2 
 
@@ -25,13 +25,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist johnitvn/yii2-ajaxcrud "*"
+php composer.phar require --prefer-dist wsidebottom/yii2-ajaxcrud "*"
 ```
 
 or add
 
 ```
-"johnitvn/yii2-ajaxcrud": "*"
+"wsidebottom/yii2-ajaxcrud": "*"
 ```
 
 to the require section of your `composer.json` file.
